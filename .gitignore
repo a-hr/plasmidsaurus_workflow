@@ -1,0 +1,9 @@
+# inputoutput files
+*bams*/
+*plots*/
+*.gtf
+*.bed
+*.fa
+
+# container images
+*.sif
